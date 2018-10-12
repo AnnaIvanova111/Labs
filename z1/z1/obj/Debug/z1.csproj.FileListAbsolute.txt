@@ -1,0 +1,6 @@
+D:\Arch\Разное\17сн1\программирование\prog\z1\z1\bin\Debug\z1.exe.config
+D:\Arch\Разное\17сн1\программирование\prog\z1\z1\bin\Debug\z1.exe
+D:\Arch\Разное\17сн1\программирование\prog\z1\z1\bin\Debug\z1.pdb
+D:\Arch\Разное\17сн1\программирование\prog\z1\z1\obj\Debug\z1.csprojResolveAssemblyReference.cache
+D:\Arch\Разное\17сн1\программирование\prog\z1\z1\obj\Debug\z1.exe
+D:\Arch\Разное\17сн1\программирование\prog\z1\z1\obj\Debug\z1.pdb
