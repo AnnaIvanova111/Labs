@@ -1,0 +1,25 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   zvezda3/zvezda3.sln
+#	new file:   zvezda3/zvezda3/Program.cs
+#	new file:   zvezda3/zvezda3/Properties/AssemblyInfo.cs
+#	new file:   zvezda3/zvezda3/app.config
+#	new file:   zvezda3/zvezda3/bin/Debug/zvezda3.exe
+#	new file:   zvezda3/zvezda3/bin/Debug/zvezda3.exe.config
+#	new file:   zvezda3/zvezda3/bin/Debug/zvezda3.pdb
+#	new file:   zvezda3/zvezda3/obj/Debug/zvezda3.csproj.FileListAbsolute.txt
+#	new file:   zvezda3/zvezda3/obj/Debug/zvezda3.csprojResolveAssemblyReference.cache
+#	new file:   zvezda3/zvezda3/obj/Debug/zvezda3.exe
+#	new file:   zvezda3/zvezda3/obj/Debug/zvezda3.pdb
+#	new file:   zvezda3/zvezda3/zvezda3.csproj
+#
+# Untracked files:
+#	simvols.sln
+#

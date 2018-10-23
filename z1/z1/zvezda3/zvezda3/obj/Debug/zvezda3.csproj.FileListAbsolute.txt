@@ -1,0 +1,6 @@
+D:\Arch\Разное\simvols\simvols\zvezda3\zvezda3\bin\Debug\zvezda3.exe.config
+D:\Arch\Разное\simvols\simvols\zvezda3\zvezda3\bin\Debug\zvezda3.exe
+D:\Arch\Разное\simvols\simvols\zvezda3\zvezda3\bin\Debug\zvezda3.pdb
+D:\Arch\Разное\simvols\simvols\zvezda3\zvezda3\obj\Debug\zvezda3.csprojResolveAssemblyReference.cache
+D:\Arch\Разное\simvols\simvols\zvezda3\zvezda3\obj\Debug\zvezda3.exe
+D:\Arch\Разное\simvols\simvols\zvezda3\zvezda3\obj\Debug\zvezda3.pdb
